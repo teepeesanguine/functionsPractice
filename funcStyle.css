@@ -1,0 +1,23 @@
+.button{
+  font-family: "Unica One", cursive;
+}
+
+#bigContainer{
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: 200px 200px;
+}
+
+.theMost{
+  font-family: "Luckiest Guy", cursive !important;
+  color: #FF0DED;
+  background-image: url("https://media1.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif?cid=3640f6095bce0d2d4d39394151a3fa1c");
+  background-size: cover;
+}
+
+.theLeast{
+  font-family: "Cabin Sketch", cursive !important;
+  color: #857F71;
+  background-image: url("https://media2.giphy.com/media/gnKlndJygdVJu/giphy.gif?cid=3640f6095bce0e0f79367541550fec95");
+  background-size: cover;
+}
